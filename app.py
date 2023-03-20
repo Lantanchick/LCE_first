@@ -3,10 +3,10 @@ import requests, os
 def up_file():
     url = "https://www.dropbox.com/s/ru96yt1m92xdltx/stocks_price_final.csv?dl=1"
     fl = requests.get(url)
-    with open("exercise\LCE_first\db_folder/DB_file.csv", "wb") as file:
+    with open("db_folder/DB_file.csv", "wb") as file:
         file.write(fl.content)
 
-if os.stat("exercise\LCE_first\db_folder/DB_file.csv").st_size == 0:
+if os.stat("db_folder/DB_file.csv").st_size == 0:
    up_file()
 else:
    pass
