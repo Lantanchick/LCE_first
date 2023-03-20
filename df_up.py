@@ -30,7 +30,7 @@ df_schema = [
 df_true = StructType(fields = df_schema)
 
 # url = "https://www.dropbox.com/s/ru96yt1m92xdltx/stocks_price_final.csv?dl=1"  ссылка на файл
-url = "exercise/LCE_first/db_folder/DB_file.csv"
+url = "db_folder/DB_file.csv"
 
 df = spark.read.csv(
     url,
