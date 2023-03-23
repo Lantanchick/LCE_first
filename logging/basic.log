@@ -1,0 +1,7086 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+DEBUG:py4j.clientserver:Command to send: m
+d
+o37
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o12
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o13
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o35
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+INFO:work:2023-03-22 17:56:09.107234 - there are no errors in the program <search.html>
+
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 17:56:09] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 17:56:09] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 17:56:09] "GET /static/images/icons8-звезда-100.png HTTP/1.1" 200 -
+INFO:work:2023-03-22 17:56:14.450511 - there are no errors in the program <search.html>
+
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 17:56:14] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 17:56:14] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 17:56:14] "[36mGET /static/images/icons8-звезда-100.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:8008
+ * Running on http://192.168.0.76:8008 (Press CTRL+C to quit)
+INFO:work:2023-03-23 10:10:36.890101 - there are no errors in the program <home.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:10:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:10:37] "GET /static/css/stl.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:10:37] "GET /static/images/ggg.png.jpeg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:10:37] "GET /static/images/1643987313_27-phonoteka-org-p-fon-dlya-saita-besshovnii-svetlii-31.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:10:37] "GET /static/images/icons8-звезда-100.png HTTP/1.1" 200 -
+INFO:work:2023-03-23 10:10:39.602133 - there are no errors in the program <search.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:10:39] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:10:39] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: A
+c9d88f53e4c5169c8ce596b00c85f68739a99db06f8d537a71b7f5d3bb9785b4
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro39
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2019-01-01
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro40
+DEBUG:py4j.clientserver:Command to send: c
+o39
+geq
+ro40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro41
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro42
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2019-01-02
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro43
+DEBUG:py4j.clientserver:Command to send: c
+o42
+leq
+ro43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro44
+DEBUG:py4j.clientserver:Command to send: c
+o41
+and
+ro44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro45
+DEBUG:py4j.clientserver:Command to send: c
+o38
+filter
+ro45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro46
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sindustry
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro47
+DEBUG:py4j.clientserver:Command to send: c
+o47
+equalTo
+sBiotechnology:
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro48
+DEBUG:py4j.clientserver:Command to send: c
+o46
+filter
+ro48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro49
+DEBUG:py4j.clientserver:Command to send: c
+o49
+limit
+i100
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro50
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+shead at C:\\Users\\wilda\\python_class\\git_new\\LCE_first\\main.py:31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: c
+o50
+collectToPython
+e
+
+DEBUG:py4j.clientserver:Answer received: !yto51
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+n
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: a
+e
+o51
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o51
+i0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi52583
+DEBUG:py4j.clientserver:Command to send: a
+e
+o51
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o51
+i1
+e
+
+DEBUG:py4j.clientserver:Answer received: !ys59d5b255420c4190c7a5093607bd9b6f6fc0c284fa5afedd1826aa9e0edae5f3
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:11:03] "GET /filter?s=2019-01-01&e=2019-01-02&ind=Biotechnology%3A&cou=100 HTTP/1.1" 200 -
+INFO:py4j.clientserver:Closing down clientserver connection
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:11:03] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: m
+d
+o51
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+INFO:work:2023-03-23 10:12:05.255036 - there are no errors in the program <search.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:12:05] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:12:05] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: m
+d
+o39
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o41
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o42
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o46
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o47
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o49
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o50
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: A
+c9d88f53e4c5169c8ce596b00c85f68739a99db06f8d537a71b7f5d3bb9785b4
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro52
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2019-01-01
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro53
+DEBUG:py4j.clientserver:Command to send: c
+o52
+geq
+ro53
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro54
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro55
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2020-12-31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro56
+DEBUG:py4j.clientserver:Command to send: c
+o55
+leq
+ro56
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro57
+DEBUG:py4j.clientserver:Command to send: c
+o54
+and
+ro57
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro58
+DEBUG:py4j.clientserver:Command to send: c
+o38
+filter
+ro58
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro59
+DEBUG:py4j.clientserver:Command to send: c
+o59
+limit
+i100
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro60
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+shead at C:\\Users\\wilda\\python_class\\git_new\\LCE_first\\main.py:31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: c
+o60
+collectToPython
+e
+
+DEBUG:py4j.clientserver:Answer received: !yto61
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+n
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: a
+e
+o61
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o61
+i0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi52604
+DEBUG:py4j.clientserver:Command to send: a
+e
+o61
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o61
+i1
+e
+
+DEBUG:py4j.clientserver:Answer received: !ys59d5b255420c4190c7a5093607bd9b6f6fc0c284fa5afedd1826aa9e0edae5f3
+INFO:work:2023-03-23 10:12:08.760922 - there are no errors in the program <head.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:12:08] "GET /filter?s=2019-01-01&e=2020-12-31&ind=False&cou=100 HTTP/1.1" 200 -
+INFO:py4j.clientserver:Closing down clientserver connection
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:12:08] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: m
+d
+o61
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o52
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o53
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o54
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o55
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o56
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o57
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o58
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o59
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o60
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: A
+c9d88f53e4c5169c8ce596b00c85f68739a99db06f8d537a71b7f5d3bb9785b4
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro62
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2019-01-01
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro63
+DEBUG:py4j.clientserver:Command to send: c
+o62
+geq
+ro63
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro64
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro65
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2020-12-31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro66
+DEBUG:py4j.clientserver:Command to send: c
+o65
+leq
+ro66
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro67
+DEBUG:py4j.clientserver:Command to send: c
+o64
+and
+ro67
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro68
+DEBUG:py4j.clientserver:Command to send: c
+o38
+filter
+ro68
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro69
+DEBUG:py4j.clientserver:Command to send: c
+o69
+limit
+i200
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro70
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+shead at C:\\Users\\wilda\\python_class\\git_new\\LCE_first\\main.py:31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: c
+o70
+collectToPython
+e
+
+DEBUG:py4j.clientserver:Answer received: !yto71
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+n
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: a
+e
+o71
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o71
+i0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi52612
+DEBUG:py4j.clientserver:Command to send: a
+e
+o71
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o71
+i1
+e
+
+DEBUG:py4j.clientserver:Answer received: !ys59d5b255420c4190c7a5093607bd9b6f6fc0c284fa5afedd1826aa9e0edae5f3
+INFO:work:2023-03-23 10:12:13.661365 - there are no errors in the program <head.html>
+
+DEBUG:py4j.clientserver:Command to send: m
+d
+o62
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o63
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o64
+e
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:12:13] "GET /filter?s=2019-01-01&e=2020-12-31&ind=False&cou=200 HTTP/1.1" 200 -
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o65
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o66
+e
+
+INFO:py4j.clientserver:Closing down clientserver connection
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o67
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o68
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o71
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o69
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o70
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:12:13] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+CRITICAL:error:2023-03-23 10:12:44.276504 - critical error in the program <head.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:12:44] "GET /filter?s=2019-01-01&e=2020-12-31&ind=False&cou HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:12:44] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:4554
+ * Running on http://192.168.0.76:4554 (Press CTRL+C to quit)
+INFO:work:2023-03-23 10:20:03.999906 - there are no errors in the program <home.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:20:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:20:04] "GET /static/css/stl.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:20:04] "GET /static/images/1643987313_27-phonoteka-org-p-fon-dlya-saita-besshovnii-svetlii-31.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:20:04] "GET /static/images/ggg.png.jpeg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:20:04] "GET /static/images/icons8-звезда-100.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:20:17] "[33mGET /j HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:20:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:work:2023-03-23 10:21:03.451684 - there are no errors in the program <home.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:21:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:21:03] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:21:03] "[36mGET /static/images/ggg.png.jpeg HTTP/1.1[0m" 304 -
+INFO:work:2023-03-23 10:21:05.703712 - there are no errors in the program <search.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:21:05] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:21:05] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: A
+ac4d3edd131fef0adde35a8e679c4c791f164804b6a09201a73ab133625c3341
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro39
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2019-01-01
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro40
+DEBUG:py4j.clientserver:Command to send: c
+o39
+geq
+ro40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro41
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro42
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2020-12-31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro43
+DEBUG:py4j.clientserver:Command to send: c
+o42
+leq
+ro43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro44
+DEBUG:py4j.clientserver:Command to send: c
+o41
+and
+ro44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro45
+DEBUG:py4j.clientserver:Command to send: c
+o38
+filter
+ro45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro46
+DEBUG:py4j.clientserver:Command to send: c
+o46
+limit
+i100
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro47
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+shead at C:\\Users\\wilda\\python_class\\git_new\\LCE_first\\main.py:31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: c
+o47
+collectToPython
+e
+
+DEBUG:py4j.clientserver:Answer received: !yto48
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+n
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: a
+e
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o48
+i0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi52909
+DEBUG:py4j.clientserver:Command to send: a
+e
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o48
+i1
+e
+
+DEBUG:py4j.clientserver:Answer received: !ys606c85288318c3eb5c8b592a30d181f5fcb543936e15080c6eb8c3ec49b91c30
+INFO:work:2023-03-23 10:21:11.835482 - there are no errors in the program <head.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:21:12] "GET /filter?s=2019-01-01&e=2020-12-31&ind=False&cou=100 HTTP/1.1" 200 -
+INFO:py4j.clientserver:Closing down clientserver connection
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:21:12] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: m
+d
+o39
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o41
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o42
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+CRITICAL:error:2023-03-23 10:21:19.303170 - critical error in the program <head.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:21:19] "GET /filter?s=2019-01-01&e=2020-12-31&ind=False&cou HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:21:19] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:work:2023-03-23 10:21:24.718630 - there are no errors in the program <home.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:21:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:21:25] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:21:25] "[36mGET /static/images/ggg.png.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:23:41] "[33mGET /gf HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:4554
+ * Running on http://192.168.0.76:4554 (Press CTRL+C to quit)
+INFO:work:2023-03-23 10:33:19.662139 - there are no errors in the program <home.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:33:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:33:19] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:33:19] "[36mGET /static/images/ggg.png.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:33:20] "[36mGET /static/images/1643987313_27-phonoteka-org-p-fon-dlya-saita-besshovnii-svetlii-31.jpg HTTP/1.1[0m" 304 -
+INFO:work:2023-03-23 10:33:22.749819 - there are no errors in the program <search.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:33:22] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:33:22] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:4554
+ * Running on http://192.168.0.76:4554 (Press CTRL+C to quit)
+DEBUG:py4j.clientserver:Command to send: m
+d
+o32
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o33
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o34
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o35
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o37
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o7
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o26
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+INFO:work:2023-03-23 10:38:22.662323 - there are no errors in the program <home.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:38:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:38:22] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:38:22] "[36mGET /static/images/ggg.png.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:38:23] "[36mGET /static/images/icons8-звезда-100.png HTTP/1.1[0m" 304 -
+INFO:work:2023-03-23 10:38:27.300830 - there are no errors in the program <search.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:38:27] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:38:27] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: A
+520a28774043381ead7cc5d1de3dce10cbc5bf0ef6bd5bd7335e191ebfc04c67
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro39
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2019-01-01
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro40
+DEBUG:py4j.clientserver:Command to send: c
+o39
+geq
+ro40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro41
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro42
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2020-12-31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro43
+DEBUG:py4j.clientserver:Command to send: c
+o42
+leq
+ro43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro44
+DEBUG:py4j.clientserver:Command to send: c
+o41
+and
+ro44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro45
+DEBUG:py4j.clientserver:Command to send: c
+o38
+filter
+ro45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro46
+DEBUG:py4j.clientserver:Command to send: c
+o46
+limit
+i100
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro47
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+shead at C:\\Users\\wilda\\python_class\\git_new\\LCE_first\\main.py:31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: c
+o47
+collectToPython
+e
+
+DEBUG:py4j.clientserver:Command to send: m
+d
+o39
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o41
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o42
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Answer received: !yto48
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+n
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: a
+e
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o48
+i0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi54315
+DEBUG:py4j.clientserver:Command to send: a
+e
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o48
+i1
+e
+
+DEBUG:py4j.clientserver:Answer received: !yse10ca7987eeadd5d970b34ac85b8687f062a71005e6a1216605175516ac50de0
+INFO:work:2023-03-23 10:38:37.094360 - there are no errors in the program <head.html>
+
+CRITICAL:error:2023-03-23 10:38:37.174962 - critical error in the program <head.html>
+
+ERROR:app:Exception on /filter [GET]
+Traceback (most recent call last):
+  File "C:\Users\wilda\python_class\git_new\LCE_first\app.py", line 61, in fltr
+    return render_template("head.html", lst = df, s = s_d, e = e_d, ind = ind_f, cou = cou_f)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 148, in render_template
+    return _render(
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 128, in _render
+    rv = template.render(context)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\head.html", line 1, in top-level template code
+    {% extends 'main.html' %}
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\main.html", line 10, in top-level template code
+    {% block body %}{% endblock %}
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\head.html", line 41, in block 'body'
+    <p><a href="{{ url_for('filter?s={{ s }}&e={{ e }}&ind={{ ind }}&cou={{cou+100}}') }}"><h2>Ещё</h2></a></p>
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\helpers.py", line 336, in url_for
+    return appctx.app.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\helpers.py", line 323, in url_for
+    rv = url_adapter.build(
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\werkzeug\routing.py", line 2305, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.BuildError: Could not build url for endpoint 'filter?s={{ s }}&e={{ e }}&ind={{ ind }}&cou={{cou+100}}'. Did you mean 'fltr' instead?
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\wilda\python_class\git_new\LCE_first\app.py", line 66, in fltr
+    return render_template("critical.html")
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 148, in render_template
+    return _render(
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 128, in _render
+    rv = template.render(context)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\critical.html", line 1, in top-level template code
+    {% extends 'main.html' %}
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\main.html", line 10, in top-level template code
+    {% block body %}{% endblock %}
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\critical.html", line 5, in block 'body'
+    <p><a href="{{ url_for('/') }}"><h2>Вернуться на домашнюю страницу</h2></a></p>
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\helpers.py", line 336, in url_for
+    return appctx.app.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\helpers.py", line 323, in url_for
+    rv = url_adapter.build(
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\werkzeug\routing.py", line 2305, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.BuildError: Could not build url for endpoint '/'. Did you mean 'fltr' instead?
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:38:37] "[35m[1mGET /filter?s=2019-01-01&e=2020-12-31&ind=False&cou=100 HTTP/1.1[0m" 500 -
+INFO:py4j.clientserver:Closing down clientserver connection
+DEBUG:py4j.clientserver:Command to send: m
+d
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o46
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o47
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:4554
+ * Running on http://192.168.0.76:4554 (Press CTRL+C to quit)
+DEBUG:py4j.clientserver:Command to send: A
+4e1e81041940e243743958ff0f4e441481e56b222feccf85d28afefafc9f5488
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro39
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2019-01-01
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro40
+DEBUG:py4j.clientserver:Command to send: c
+o39
+geq
+ro40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro41
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro42
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2020-12-31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro43
+DEBUG:py4j.clientserver:Command to send: c
+o42
+leq
+ro43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro44
+DEBUG:py4j.clientserver:Command to send: c
+o41
+and
+ro44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro45
+DEBUG:py4j.clientserver:Command to send: c
+o38
+filter
+ro45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro46
+DEBUG:py4j.clientserver:Command to send: c
+o46
+limit
+i100
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro47
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+shead at C:\\Users\\wilda\\python_class\\git_new\\LCE_first\\main.py:31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: c
+o47
+collectToPython
+e
+
+DEBUG:py4j.clientserver:Answer received: !yto48
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+n
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: a
+e
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o48
+i0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi54531
+DEBUG:py4j.clientserver:Command to send: a
+e
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o48
+i1
+e
+
+DEBUG:py4j.clientserver:Answer received: !ys98bac3726120e82a5df7cc9403ff31646bca4f161ecff556a25bca4e49145d46
+INFO:work:2023-03-23 10:44:37.175491 - there are no errors in the program <head.html>
+
+CRITICAL:error:2023-03-23 10:44:37.271525 - critical error in the program <head.html>
+
+ERROR:app:Exception on /filter [GET]
+Traceback (most recent call last):
+  File "C:\Users\wilda\python_class\git_new\LCE_first\app.py", line 58, in fltr
+    return render_template("head.html", lst = df, s = s_d, e = e_d, ind = ind_f, cou = cou_f)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 148, in render_template
+    return _render(
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 128, in _render
+    rv = template.render(context)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\head.html", line 1, in top-level template code
+    {% extends 'main.html' %}
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\main.html", line 10, in top-level template code
+    {% block body %}{% endblock %}
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\head.html", line 41, in block 'body'
+    <p><a href="{{ url_for('filter?s={{ s }}&e={{ e }}&ind={{ ind }}&cou={{cou+100}}') }}"><h2>Ещё</h2></a></p>
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\helpers.py", line 336, in url_for
+    return appctx.app.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\helpers.py", line 323, in url_for
+    rv = url_adapter.build(
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\werkzeug\routing.py", line 2305, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.BuildError: Could not build url for endpoint 'filter?s={{ s }}&e={{ e }}&ind={{ ind }}&cou={{cou+100}}'. Did you mean 'fltr' instead?
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\wilda\python_class\git_new\LCE_first\app.py", line 63, in fltr
+    return render_template("critical.html")
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 148, in render_template
+    return _render(
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 128, in _render
+    rv = template.render(context)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\critical.html", line 1, in top-level template code
+    {% extends 'main.html' %}
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\main.html", line 10, in top-level template code
+    {% block body %}{% endblock %}
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\critical.html", line 5, in block 'body'
+    <p><a href="{{ url_for('/') }}"><h2>Вернуться на домашнюю страницу</h2></a></p>
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\helpers.py", line 336, in url_for
+    return appctx.app.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\helpers.py", line 323, in url_for
+    rv = url_adapter.build(
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\werkzeug\routing.py", line 2305, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.BuildError: Could not build url for endpoint '/'. Did you mean 'fltr' instead?
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:44:37] "[35m[1mGET /filter?s=2019-01-01&e=2020-12-31&ind=False&cou=100 HTTP/1.1[0m" 500 -
+INFO:py4j.clientserver:Closing down clientserver connection
+DEBUG:py4j.clientserver:Command to send: m
+d
+o39
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o41
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o42
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:4554
+ * Running on http://192.168.0.76:4554 (Press CTRL+C to quit)
+DEBUG:py4j.clientserver:Command to send: A
+5d3ffb9f8c40667f300b1d4874aa7628d8d3c4aa1b98ada5fc53d2bfcd5ad9e6
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro39
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2019-01-01
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro40
+DEBUG:py4j.clientserver:Command to send: c
+o39
+geq
+ro40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro41
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro42
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2020-12-31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro43
+DEBUG:py4j.clientserver:Command to send: c
+o42
+leq
+ro43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro44
+DEBUG:py4j.clientserver:Command to send: c
+o41
+and
+ro44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro45
+DEBUG:py4j.clientserver:Command to send: c
+o38
+filter
+ro45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro46
+DEBUG:py4j.clientserver:Command to send: c
+o46
+limit
+i100
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro47
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+shead at C:\\Users\\wilda\\python_class\\git_new\\LCE_first\\main.py:31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: c
+o47
+collectToPython
+e
+
+DEBUG:py4j.clientserver:Answer received: !yto48
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+n
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: a
+e
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o48
+i0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi54675
+DEBUG:py4j.clientserver:Command to send: a
+e
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o48
+i1
+e
+
+DEBUG:py4j.clientserver:Answer received: !ysf1664ff0f34e10766df5a2261a6181aff66b98a8f1b4748dd805e10fb5fcd322
+INFO:work:2023-03-23 10:47:20.149335 - there are no errors in the program <head.html>
+
+DEBUG:py4j.clientserver:Command to send: m
+d
+o39
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o41
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o42
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+CRITICAL:error:2023-03-23 10:47:20.245365 - critical error in the program <head.html>
+
+ERROR:app:Exception on /filter [GET]
+Traceback (most recent call last):
+  File "C:\Users\wilda\python_class\git_new\LCE_first\app.py", line 58, in fltr
+    return render_template("head.html", lst = df, s = s_d, e = e_d, ind = ind_f, cou = cou_f)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 148, in render_template
+    return _render(
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 128, in _render
+    rv = template.render(context)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\head.html", line 1, in top-level template code
+    {% extends 'main.html' %}
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\main.html", line 10, in top-level template code
+    {% block body %}{% endblock %}
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\head.html", line 41, in block 'body'
+    <p><a href="{{ url_for('filter?s={{ s }}&e={{ e }}&ind={{ ind }}&cou={{cou+100}}') }}"><h2>Ещё</h2></a></p>
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\helpers.py", line 336, in url_for
+    return appctx.app.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\helpers.py", line 323, in url_for
+    rv = url_adapter.build(
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\werkzeug\routing.py", line 2305, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.BuildError: Could not build url for endpoint 'filter?s={{ s }}&e={{ e }}&ind={{ ind }}&cou={{cou+100}}'. Did you mean 'fltr' instead?
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\wilda\python_class\git_new\LCE_first\app.py", line 63, in fltr
+    return render_template("critical.html")
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 148, in render_template
+    return _render(
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 128, in _render
+    rv = template.render(context)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\critical.html", line 1, in top-level template code
+    {% extends 'main.html' %}
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\main.html", line 10, in top-level template code
+    {% block body %}{% endblock %}
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\critical.html", line 5, in block 'body'
+    <p><a href="{{ url_for('/') }}"><h2>Вернуться на домашнюю страницу</h2></a></p>
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\helpers.py", line 336, in url_for
+    return appctx.app.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\helpers.py", line 323, in url_for
+    rv = url_adapter.build(
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\werkzeug\routing.py", line 2305, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.BuildError: Could not build url for endpoint '/'. Did you mean 'fltr' instead?
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:47:20] "[35m[1mGET /filter?s=2019-01-01&e=2020-12-31&ind=False&cou=100 HTTP/1.1[0m" 500 -
+INFO:py4j.clientserver:Closing down clientserver connection
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:4554
+ * Running on http://192.168.0.76:4554 (Press CTRL+C to quit)
+DEBUG:py4j.clientserver:Command to send: A
+ab8b31d37bb2abe15d8cde2099889ec53ca1b44036472e89aac7a28a84cf9858
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro39
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2019-01-01
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro40
+DEBUG:py4j.clientserver:Command to send: c
+o39
+geq
+ro40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro41
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro42
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2020-12-31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro43
+DEBUG:py4j.clientserver:Command to send: c
+o42
+leq
+ro43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro44
+DEBUG:py4j.clientserver:Command to send: c
+o41
+and
+ro44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro45
+DEBUG:py4j.clientserver:Command to send: c
+o38
+filter
+ro45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro46
+DEBUG:py4j.clientserver:Command to send: c
+o46
+limit
+i100
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro47
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+shead at C:\\Users\\wilda\\python_class\\git_new\\LCE_first\\main.py:31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: c
+o47
+collectToPython
+e
+
+DEBUG:py4j.clientserver:Answer received: !yto48
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+n
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: a
+e
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o48
+i0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi54835
+DEBUG:py4j.clientserver:Command to send: a
+e
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o48
+i1
+e
+
+DEBUG:py4j.clientserver:Answer received: !ys90eb38fa746bcfc6a30eb33a420f3f10cc5451dbb6735ea78c6d3bc102409ef2
+INFO:work:2023-03-23 10:49:35.665149 - there are no errors in the program <head.html>
+
+CRITICAL:error:2023-03-23 10:49:35.765148 - critical error in the program <head.html>
+
+ERROR:app:Exception on /filter [GET]
+Traceback (most recent call last):
+  File "C:\Users\wilda\python_class\git_new\LCE_first\app.py", line 58, in fltr
+    return render_template("head.html", lst = df, s = s_d, e = e_d, ind = ind_f, cou = cou_f)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 148, in render_template
+    return _render(
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 128, in _render
+    rv = template.render(context)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\head.html", line 1, in top-level template code
+    {% extends 'main.html' %}
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\main.html", line 10, in top-level template code
+    {% block body %}{% endblock %}
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\head.html", line 41, in block 'body'
+    <!-- <p><a href="{{ url_for('filter?s={{ s }}&e={{ e }}&ind={{ ind }}&cou={{cou+100}}') }}"><h2>Ещё</h2></a></p> -->
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\helpers.py", line 336, in url_for
+    return appctx.app.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\helpers.py", line 323, in url_for
+    rv = url_adapter.build(
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\werkzeug\routing.py", line 2305, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.BuildError: Could not build url for endpoint 'filter?s={{ s }}&e={{ e }}&ind={{ ind }}&cou={{cou+100}}'. Did you mean 'fltr' instead?
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\wilda\python_class\git_new\LCE_first\app.py", line 63, in fltr
+    return render_template("critical.html")
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 148, in render_template
+    return _render(
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 128, in _render
+    rv = template.render(context)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\critical.html", line 1, in top-level template code
+    {% extends 'main.html' %}
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\main.html", line 10, in top-level template code
+    {% block body %}{% endblock %}
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\critical.html", line 5, in block 'body'
+    <p><a href="{{ url_for('/') }}"><h2>Вернуться на домашнюю страницу</h2></a></p>
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\helpers.py", line 336, in url_for
+    return appctx.app.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\helpers.py", line 323, in url_for
+    rv = url_adapter.build(
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\werkzeug\routing.py", line 2305, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.BuildError: Could not build url for endpoint '/'. Did you mean 'fltr' instead?
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:49:35] "[35m[1mGET /filter?s=2019-01-01&e=2020-12-31&ind=False&cou=100 HTTP/1.1[0m" 500 -
+INFO:py4j.clientserver:Closing down clientserver connection
+DEBUG:py4j.clientserver:Command to send: m
+d
+o39
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o41
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o42
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+INFO:work:2023-03-23 10:49:38.745168 - there are no errors in the program <search.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:49:38] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:49:38] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:49:39] "[36mGET /static/images/icons8-звезда-100.png HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: A
+ab8b31d37bb2abe15d8cde2099889ec53ca1b44036472e89aac7a28a84cf9858
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro49
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2019-01-01
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro50
+DEBUG:py4j.clientserver:Command to send: c
+o49
+geq
+ro50
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro51
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro52
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2020-12-31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro53
+DEBUG:py4j.clientserver:Command to send: c
+o52
+leq
+ro53
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro54
+DEBUG:py4j.clientserver:Command to send: c
+o51
+and
+ro54
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro55
+DEBUG:py4j.clientserver:Command to send: c
+o38
+filter
+ro55
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro56
+DEBUG:py4j.clientserver:Command to send: c
+o56
+limit
+i100
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro57
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+shead at C:\\Users\\wilda\\python_class\\git_new\\LCE_first\\main.py:31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: c
+o57
+collectToPython
+e
+
+DEBUG:py4j.clientserver:Answer received: !yto58
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+n
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: a
+e
+o58
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o58
+i0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi54849
+DEBUG:py4j.clientserver:Command to send: a
+e
+o58
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o58
+i1
+e
+
+DEBUG:py4j.clientserver:Answer received: !ys90eb38fa746bcfc6a30eb33a420f3f10cc5451dbb6735ea78c6d3bc102409ef2
+INFO:work:2023-03-23 10:49:41.543724 - there are no errors in the program <head.html>
+
+CRITICAL:error:2023-03-23 10:49:41.639728 - critical error in the program <head.html>
+
+ERROR:app:Exception on /filter [GET]
+Traceback (most recent call last):
+  File "C:\Users\wilda\python_class\git_new\LCE_first\app.py", line 58, in fltr
+    return render_template("head.html", lst = df, s = s_d, e = e_d, ind = ind_f, cou = cou_f)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 148, in render_template
+    return _render(
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 128, in _render
+    rv = template.render(context)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\head.html", line 1, in top-level template code
+    {% extends 'main.html' %}
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\main.html", line 10, in top-level template code
+    {% block body %}{% endblock %}
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\head.html", line 41, in block 'body'
+    <!-- <p><a href="{{ url_for('filter?s={{ s }}&e={{ e }}&ind={{ ind }}&cou={{cou+100}}') }}"><h2>Ещё</h2></a></p> -->
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\helpers.py", line 336, in url_for
+    return appctx.app.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\helpers.py", line 323, in url_for
+    rv = url_adapter.build(
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\werkzeug\routing.py", line 2305, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.BuildError: Could not build url for endpoint 'filter?s={{ s }}&e={{ e }}&ind={{ ind }}&cou={{cou+100}}'. Did you mean 'fltr' instead?
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\wilda\python_class\git_new\LCE_first\app.py", line 63, in fltr
+    return render_template("critical.html")
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 148, in render_template
+    return _render(
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 128, in _render
+    rv = template.render(context)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\critical.html", line 1, in top-level template code
+    {% extends 'main.html' %}
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\main.html", line 10, in top-level template code
+    {% block body %}{% endblock %}
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\critical.html", line 5, in block 'body'
+    <p><a href="{{ url_for('/') }}"><h2>Вернуться на домашнюю страницу</h2></a></p>
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\helpers.py", line 336, in url_for
+    return appctx.app.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\helpers.py", line 323, in url_for
+    rv = url_adapter.build(
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\werkzeug\routing.py", line 2305, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.BuildError: Could not build url for endpoint '/'. Did you mean 'fltr' instead?
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:49:41] "[35m[1mGET /filter?s=2019-01-01&e=2020-12-31&ind=False&cou=100 HTTP/1.1[0m" 500 -
+INFO:py4j.clientserver:Closing down clientserver connection
+DEBUG:py4j.clientserver:Command to send: m
+d
+o49
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o50
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o51
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o52
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o53
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o54
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o55
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o58
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o46
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o47
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o56
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o57
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:4554
+ * Running on http://192.168.0.76:4554 (Press CTRL+C to quit)
+DEBUG:py4j.clientserver:Command to send: m
+d
+o32
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o33
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o34
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o35
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o37
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o7
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o26
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: A
+f9ec37ebcfad9da106b54b5a74fb2ca0c4c2214501bcdd810fd6024d626219bd
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro39
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2019-01-01
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro40
+DEBUG:py4j.clientserver:Command to send: c
+o39
+geq
+ro40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro41
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro42
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2020-12-31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro43
+DEBUG:py4j.clientserver:Command to send: c
+o42
+leq
+ro43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro44
+DEBUG:py4j.clientserver:Command to send: c
+o41
+and
+ro44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro45
+DEBUG:py4j.clientserver:Command to send: c
+o38
+filter
+ro45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro46
+DEBUG:py4j.clientserver:Command to send: c
+o46
+limit
+i100
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro47
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+shead at C:\\Users\\wilda\\python_class\\git_new\\LCE_first\\main.py:31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: c
+o47
+collectToPython
+e
+
+DEBUG:py4j.clientserver:Answer received: !yto48
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+n
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: a
+e
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o48
+i0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi54974
+DEBUG:py4j.clientserver:Command to send: a
+e
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o48
+i1
+e
+
+DEBUG:py4j.clientserver:Answer received: !ys31666983ed96e8ae3cae63831e4e51e201c61ec4e9612e9f3ff4e3be00f84ecc
+INFO:work:2023-03-23 10:51:30.642569 - there are no errors in the program <head.html>
+
+CRITICAL:error:2023-03-23 10:51:30.738566 - critical error in the program <head.html>
+
+ERROR:app:Exception on /filter [GET]
+Traceback (most recent call last):
+  File "C:\Users\wilda\python_class\git_new\LCE_first\app.py", line 58, in fltr
+    return render_template("head.html", lst = df, s = s_d, e = e_d, ind = ind_f, cou = cou_f)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 148, in render_template
+    return _render(
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 128, in _render
+    rv = template.render(context)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\head.html", line 1, in top-level template code
+    {% extends 'main.html' %}
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\main.html", line 10, in top-level template code
+    {% block body %}{% endblock %}
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\head.html", line 41, in block 'body'
+    <!-- <p><a href="{{ url_for('filter?s={{ s }}&e={{ e }}&ind={{ ind }}&cou={{cou+100}}') }}"><h2>Ещё</h2></a></p> -->
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\helpers.py", line 336, in url_for
+    return appctx.app.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\helpers.py", line 323, in url_for
+    rv = url_adapter.build(
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\werkzeug\routing.py", line 2305, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.BuildError: Could not build url for endpoint 'filter?s={{ s }}&e={{ e }}&ind={{ ind }}&cou={{cou+100}}'. Did you mean 'fltr' instead?
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\wilda\python_class\git_new\LCE_first\app.py", line 63, in fltr
+    return render_template("critical.html")
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 148, in render_template
+    return _render(
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\templating.py", line 128, in _render
+    rv = template.render(context)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\critical.html", line 1, in top-level template code
+    {% extends 'main.html' %}
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\main.html", line 10, in top-level template code
+    {% block body %}{% endblock %}
+  File "C:\Users\wilda\python_class\git_new\LCE_first\templates\critical.html", line 5, in block 'body'
+    <p><a href="{{ url_for('/') }}"><h2>Вернуться на домашнюю страницу</h2></a></p>
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\helpers.py", line 336, in url_for
+    return appctx.app.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\helpers.py", line 323, in url_for
+    rv = url_adapter.build(
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\werkzeug\routing.py", line 2305, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.BuildError: Could not build url for endpoint '/'. Did you mean 'fltr' instead?
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:51:30] "[35m[1mGET /filter?s=2019-01-01&e=2020-12-31&ind=False&cou=100 HTTP/1.1[0m" 500 -
+INFO:py4j.clientserver:Closing down clientserver connection
+DEBUG:py4j.clientserver:Command to send: m
+d
+o39
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o41
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o42
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:4554
+ * Running on http://192.168.0.76:4554 (Press CTRL+C to quit)
+DEBUG:py4j.clientserver:Command to send: m
+d
+o7
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o26
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: A
+fc43760c3d03d37710c563aba0c7876a545aca95d3d2955318226aae003817e3
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro39
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2019-01-01
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro40
+DEBUG:py4j.clientserver:Command to send: c
+o39
+geq
+ro40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro41
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro42
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2020-12-31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro43
+DEBUG:py4j.clientserver:Command to send: c
+o42
+leq
+ro43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro44
+DEBUG:py4j.clientserver:Command to send: c
+o41
+and
+ro44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro45
+DEBUG:py4j.clientserver:Command to send: c
+o38
+filter
+ro45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro46
+DEBUG:py4j.clientserver:Command to send: c
+o46
+limit
+i100
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro47
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+shead at C:\\Users\\wilda\\python_class\\git_new\\LCE_first\\main.py:31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: c
+o47
+collectToPython
+e
+
+DEBUG:py4j.clientserver:Answer received: !yto48
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+n
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: a
+e
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o48
+i0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi55104
+DEBUG:py4j.clientserver:Command to send: a
+e
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o48
+i1
+e
+
+DEBUG:py4j.clientserver:Answer received: !ysf401882b64c6e3f5c2112de5a0d31e7f5c85c69dbde159c7e91d960509cd024c
+INFO:work:2023-03-23 10:53:49.476502 - there are no errors in the program <head.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:53:49] "GET /filter?s=2019-01-01&e=2020-12-31&ind=False&cou=100 HTTP/1.1" 200 -
+INFO:py4j.clientserver:Closing down clientserver connection
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:53:49] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:53:49] "[36mGET /static/images/1643987313_27-phonoteka-org-p-fon-dlya-saita-besshovnii-svetlii-31.jpg HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: m
+d
+o39
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o41
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o42
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:4554
+ * Running on http://192.168.0.76:4554 (Press CTRL+C to quit)
+DEBUG:py4j.clientserver:Command to send: A
+fb7c3235060895cdfc83736e9d6cea115c6de3365e8b736a53347ebb69b65bbd
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro39
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2019-01-01
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro40
+DEBUG:py4j.clientserver:Command to send: c
+o39
+geq
+ro40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro41
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro42
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2020-12-31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro43
+DEBUG:py4j.clientserver:Command to send: c
+o42
+leq
+ro43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro44
+DEBUG:py4j.clientserver:Command to send: c
+o41
+and
+ro44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro45
+DEBUG:py4j.clientserver:Command to send: c
+o38
+filter
+ro45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro46
+DEBUG:py4j.clientserver:Command to send: c
+o46
+limit
+i100
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro47
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+shead at C:\\Users\\wilda\\python_class\\git_new\\LCE_first\\main.py:31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: c
+o47
+collectToPython
+e
+
+DEBUG:py4j.clientserver:Answer received: !yto48
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+n
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: a
+e
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o48
+i0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi55424
+DEBUG:py4j.clientserver:Command to send: a
+e
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o48
+i1
+e
+
+DEBUG:py4j.clientserver:Answer received: !ysd648449794561ba1fe5b473aed56512a8bd726fa332b299435bb38f504085c51
+INFO:work:2023-03-23 10:56:33.804404 - there are no errors in the program <head.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:56:33] "GET /filter?s=2019-01-01&e=2020-12-31&ind=False&cou=100 HTTP/1.1" 200 -
+INFO:py4j.clientserver:Closing down clientserver connection
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:56:34] "GET /static/css/stl.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:56:34] "[36mGET /static/images/1643987313_27-phonoteka-org-p-fon-dlya-saita-besshovnii-svetlii-31.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:56:34] "[36mGET /static/images/icons8-звезда-100.png HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: m
+d
+o39
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o41
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o42
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+INFO:work:2023-03-23 10:56:35.785142 - there are no errors in the program <search.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:56:35] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:56:36] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:56:36] "[36mGET /static/images/1643987313_27-phonoteka-org-p-fon-dlya-saita-besshovnii-svetlii-31.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:4554
+ * Running on http://192.168.0.76:4554 (Press CTRL+C to quit)
+DEBUG:py4j.clientserver:Command to send: m
+d
+o32
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o33
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o34
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o35
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o37
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o7
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o26
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: A
+1dff39341234dfefaaf1ed9b3512e5deeab624cba4422f546d2ff6af86a02605
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro39
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2019-01-01
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro40
+DEBUG:py4j.clientserver:Command to send: c
+o39
+geq
+ro40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro41
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro42
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2020-12-31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro43
+DEBUG:py4j.clientserver:Command to send: c
+o42
+leq
+ro43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro44
+DEBUG:py4j.clientserver:Command to send: c
+o41
+and
+ro44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro45
+DEBUG:py4j.clientserver:Command to send: c
+o38
+filter
+ro45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro46
+DEBUG:py4j.clientserver:Command to send: c
+o46
+limit
+i100
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro47
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+shead at C:\\Users\\wilda\\python_class\\git_new\\LCE_first\\main.py:31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: c
+o47
+collectToPython
+e
+
+DEBUG:py4j.clientserver:Answer received: !yto48
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+n
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: a
+e
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o48
+i0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi55553
+DEBUG:py4j.clientserver:Command to send: a
+e
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o48
+i1
+e
+
+DEBUG:py4j.clientserver:Answer received: !ys37c53cacde69b80d2edcf78af7516199b68b11f9fac1fbd45c965e17f7006454
+INFO:work:2023-03-23 10:58:08.325636 - there are no errors in the program <head.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:58:08] "GET /filter?s=2019-01-01&e=2020-12-31&ind=False&cou=100 HTTP/1.1" 200 -
+INFO:py4j.clientserver:Closing down clientserver connection
+DEBUG:py4j.clientserver:Command to send: m
+d
+o39
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o41
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o42
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:58:08] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:58:08] "[36mGET /static/images/1643987313_27-phonoteka-org-p-fon-dlya-saita-besshovnii-svetlii-31.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:58:08] "[36mGET /static/images/icons8-звезда-100.png HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: A
+1dff39341234dfefaaf1ed9b3512e5deeab624cba4422f546d2ff6af86a02605
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro49
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2019-01-01
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro50
+DEBUG:py4j.clientserver:Command to send: c
+o49
+geq
+ro50
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro51
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro52
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2020-12-31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro53
+DEBUG:py4j.clientserver:Command to send: c
+o52
+leq
+ro53
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro54
+DEBUG:py4j.clientserver:Command to send: c
+o51
+and
+ro54
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro55
+DEBUG:py4j.clientserver:Command to send: c
+o38
+filter
+ro55
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro56
+DEBUG:py4j.clientserver:Command to send: c
+o56
+limit
+i200
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro57
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+shead at C:\\Users\\wilda\\python_class\\git_new\\LCE_first\\main.py:31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: c
+o57
+collectToPython
+e
+
+DEBUG:py4j.clientserver:Answer received: !yto58
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+n
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: a
+e
+o58
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o58
+i0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi55569
+DEBUG:py4j.clientserver:Command to send: a
+e
+o58
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o58
+i1
+e
+
+DEBUG:py4j.clientserver:Answer received: !ys37c53cacde69b80d2edcf78af7516199b68b11f9fac1fbd45c965e17f7006454
+INFO:work:2023-03-23 10:58:13.094552 - there are no errors in the program <head.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:58:13] "GET /filter?s=2019-01-01&e=2020-12-31&ind=False&cou=200 HTTP/1.1" 200 -
+INFO:py4j.clientserver:Closing down clientserver connection
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:58:13] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: m
+d
+o49
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o50
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o51
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o52
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o53
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o54
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o55
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o58
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o46
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o47
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o56
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o57
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 10:58:13] "[36mGET /static/images/1643987313_27-phonoteka-org-p-fon-dlya-saita-besshovnii-svetlii-31.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:4554
+ * Running on http://192.168.0.76:4554 (Press CTRL+C to quit)
+DEBUG:py4j.clientserver:Command to send: m
+d
+o34
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o35
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o37
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o10
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o33
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+INFO:work:2023-03-23 11:01:32.847355 - there are no errors in the program <search.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:01:32] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:01:33] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:01:33] "[36mGET /static/images/icons8-звезда-100.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:01:33] "[36mGET /static/images/1643987313_27-phonoteka-org-p-fon-dlya-saita-besshovnii-svetlii-31.jpg HTTP/1.1[0m" 304 -
+INFO:work:2023-03-23 11:01:36.304445 - there are no errors in the program <search.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:01:36] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:01:36] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:01:36] "[36mGET /static/images/icons8-звезда-100.png HTTP/1.1[0m" 304 -
+INFO:work:2023-03-23 11:01:44.579819 - there are no errors in the program <home.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:01:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:01:44] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:01:44] "[36mGET /static/images/ggg.png.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:01:45] "[36mGET /static/images/icons8-звезда-100.png HTTP/1.1[0m" 304 -
+INFO:work:2023-03-23 11:01:47.294974 - there are no errors in the program <search.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:01:47] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:01:47] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:4554
+ * Running on http://192.168.0.76:4554 (Press CTRL+C to quit)
+DEBUG:py4j.clientserver:Command to send: m
+d
+o37
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o11
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o12
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o35
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+INFO:work:2023-03-23 11:03:47.571975 - there are no errors in the program <home.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:03:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:03:47] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:03:47] "[36mGET /static/images/ggg.png.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:03:48] "[36mGET /static/images/icons8-звезда-100.png HTTP/1.1[0m" 304 -
+INFO:work:2023-03-23 11:07:00.046284 - there are no errors in the program <search.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:07:00] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:07:00] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: A
+a3c74122cd2ad14bdca10f9827a6732bd76bacbf082ddd299b9c48fb8ad77f23
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro39
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2019-01-01
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro40
+DEBUG:py4j.clientserver:Command to send: c
+o39
+geq
+ro40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro41
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro42
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2020-12-31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro43
+DEBUG:py4j.clientserver:Command to send: c
+o42
+leq
+ro43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro44
+DEBUG:py4j.clientserver:Command to send: c
+o41
+and
+ro44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro45
+DEBUG:py4j.clientserver:Command to send: c
+o38
+filter
+ro45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro46
+DEBUG:py4j.clientserver:Command to send: c
+o46
+limit
+i100
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro47
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+shead at C:\\Users\\wilda\\python_class\\git_new\\LCE_first\\main.py:31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: c
+o47
+collectToPython
+e
+
+DEBUG:py4j.clientserver:Answer received: !yto48
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+n
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: a
+e
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o48
+i0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi56006
+DEBUG:py4j.clientserver:Command to send: a
+e
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o48
+i1
+e
+
+DEBUG:py4j.clientserver:Answer received: !ys938c097eaef6edfc6125029eca5c22f65f023db7e8d35f9cdc34e9293647f01f
+INFO:work:2023-03-23 11:07:05.883303 - there are no errors in the program <head.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:07:05] "GET /filter?s=2019-01-01&e=2020-12-31&ind=False&cou=100 HTTP/1.1" 200 -
+INFO:py4j.clientserver:Closing down clientserver connection
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:07:05] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: m
+d
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o39
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o41
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o42
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o46
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o47
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+CRITICAL:error:2023-03-23 11:07:12.901194 - critical error in the program <head.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:07:12] "GET /filter?s=2019-01-01&e=2020-12-31&ind=False&cou HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:07:12] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:4554
+ * Running on http://192.168.0.76:4554 (Press CTRL+C to quit)
+DEBUG:py4j.clientserver:Command to send: m
+d
+o37
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o12
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o13
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o35
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+INFO:work:2023-03-23 11:09:35.995337 - there are no errors in the program <home.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:09:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:09:36] "GET /static/css/stl.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:09:36] "[36mGET /static/images/1643987313_27-phonoteka-org-p-fon-dlya-saita-besshovnii-svetlii-31.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:09:36] "[36mGET /static/images/ggg.png.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:4554
+ * Running on http://192.168.0.76:4554 (Press CTRL+C to quit)
+DEBUG:py4j.clientserver:Command to send: m
+d
+o7
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o26
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+INFO:work:2023-03-23 11:11:36.719503 - there are no errors in the program <home.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:11:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:11:36] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:11:36] "[36mGET /static/images/ggg.png.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:11:37] "[36mGET /static/images/icons8-звезда-100.png HTTP/1.1[0m" 304 -
+ERROR:app:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1526, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1545, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1701, in make_response
+    raise TypeError(
+TypeError: The view function for 'search' did not return a valid response. The function either returned None or ended without a return statement.
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:11:56] "[35m[1mGET /search HTTP/1.1[0m" 500 -
+INFO:work:2023-03-23 11:12:04.060733 - there are no errors in the program <home.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:12:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:12:04] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:12:04] "[36mGET /static/images/ggg.png.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:12:04] "[36mGET /static/images/icons8-звезда-100.png HTTP/1.1[0m" 304 -
+ERROR:app:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1526, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1545, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1701, in make_response
+    raise TypeError(
+TypeError: The view function for 'search' did not return a valid response. The function either returned None or ended without a return statement.
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:12:06] "[35m[1mGET /search HTTP/1.1[0m" 500 -
+DEBUG:py4j.clientserver:Command to send: m
+d
+o32
+e
+
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:4554
+ * Running on http://192.168.0.76:4554 (Press CTRL+C to quit)
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o33
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o34
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o35
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o37
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o7
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o26
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+INFO:work:2023-03-23 11:13:28.258976 - there are no errors in the program <home.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:13:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:13:28] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:13:28] "[36mGET /static/images/ggg.png.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:13:28] "[36mGET /static/images/icons8-звезда-100.png HTTP/1.1[0m" 304 -
+ERROR:app:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1526, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1545, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1701, in make_response
+    raise TypeError(
+TypeError: The view function for 'search' did not return a valid response. The function either returned None or ended without a return statement.
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:13:30] "[35m[1mGET /search HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:4554
+ * Running on http://192.168.0.76:4554 (Press CTRL+C to quit)
+INFO:work:2023-03-23 11:16:41.166431 - there are no errors in the program <home.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:16:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:16:41] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:16:41] "[36mGET /static/images/ggg.png.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:16:41] "[36mGET /static/images/icons8-звезда-100.png HTTP/1.1[0m" 304 -
+ERROR:app:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1526, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1545, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1701, in make_response
+    raise TypeError(
+TypeError: The view function for 'search' did not return a valid response. The function either returned None or ended without a return statement.
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:16:42] "[35m[1mGET /search HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:4554
+ * Running on http://192.168.0.76:4554 (Press CTRL+C to quit)
+ERROR:app:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1526, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1545, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1701, in make_response
+    raise TypeError(
+TypeError: The view function for 'search' did not return a valid response. The function either returned None or ended without a return statement.
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:19:13] "[35m[1mGET /search HTTP/1.1[0m" 500 -
+CRITICAL:error:2023-03-23 11:19:21.290406 - critical error in the program <head.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:19:21] "GET /filter?s=2019-01-01&e=2020-12-31&ind=False&cou HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:19:21] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+CRITICAL:error:2023-03-23 11:19:29.283078 - critical error in the program <head.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:19:29] "GET /filter HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:19:29] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:19:36] "[33mGET /filte HTTP/1.1[0m" 404 -
+CRITICAL:error:2023-03-23 11:19:38.513779 - critical error in the program <head.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:19:38] "GET /filter HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:19:38] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:work:2023-03-23 11:19:40.410744 - there are no errors in the program <home.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:19:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:19:40] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:19:40] "[36mGET /static/images/ggg.png.jpeg HTTP/1.1[0m" 304 -
+ERROR:app:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1526, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1545, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\wilda\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1701, in make_response
+    raise TypeError(
+TypeError: The view function for 'search' did not return a valid response. The function either returned None or ended without a return statement.
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:19:42] "[35m[1mGET /search HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:4554
+ * Running on http://192.168.0.76:4554 (Press CTRL+C to quit)
+DEBUG:py4j.clientserver:Command to send: m
+d
+o37
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o12
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o35
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+INFO:work:2023-03-23 11:21:18.691156 - there are no errors in the program <search.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:21:18] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:21:18] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:21:18] "[36mGET /static/images/1643987313_27-phonoteka-org-p-fon-dlya-saita-besshovnii-svetlii-31.jpg HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: A
+0eca389cc689e675cf82db6c63d7b278fa735d634680f499c69a2cfd25e3fbdd
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro39
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2019-01-01
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro40
+DEBUG:py4j.clientserver:Command to send: c
+o39
+geq
+ro40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro41
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro42
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2020-12-31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro43
+DEBUG:py4j.clientserver:Command to send: c
+o42
+leq
+ro43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro44
+DEBUG:py4j.clientserver:Command to send: c
+o41
+and
+ro44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro45
+DEBUG:py4j.clientserver:Command to send: c
+o38
+filter
+ro45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro46
+DEBUG:py4j.clientserver:Command to send: c
+o46
+limit
+i100
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro47
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+shead at C:\\Users\\wilda\\python_class\\git_new\\LCE_first\\main.py:31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: c
+o47
+collectToPython
+e
+
+DEBUG:py4j.clientserver:Command to send: m
+d
+o39
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o41
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o42
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Answer received: !yto48
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+n
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: a
+e
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o48
+i0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi57435
+DEBUG:py4j.clientserver:Command to send: a
+e
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o48
+i1
+e
+
+DEBUG:py4j.clientserver:Answer received: !ys788d03fe3d3632df4a2732e8bd7a703b95aa50e672152ae52f8ef2cdeb55f224
+INFO:work:2023-03-23 11:21:24.893892 - there are no errors in the program <head.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:21:24] "GET /filter?s=2019-01-01&e=2020-12-31&ind=False&cou=100 HTTP/1.1" 200 -
+INFO:py4j.clientserver:Closing down clientserver connection
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:21:25] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: m
+d
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: A
+0eca389cc689e675cf82db6c63d7b278fa735d634680f499c69a2cfd25e3fbdd
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro49
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2019-01-01
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro50
+DEBUG:py4j.clientserver:Command to send: c
+o49
+geq
+ro50
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro51
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro52
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2020-12-31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro53
+DEBUG:py4j.clientserver:Command to send: c
+o52
+leq
+ro53
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro54
+DEBUG:py4j.clientserver:Command to send: c
+o51
+and
+ro54
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro55
+DEBUG:py4j.clientserver:Command to send: c
+o38
+filter
+ro55
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro56
+DEBUG:py4j.clientserver:Command to send: c
+o56
+limit
+i200
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro57
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+shead at C:\\Users\\wilda\\python_class\\git_new\\LCE_first\\main.py:31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: c
+o57
+collectToPython
+e
+
+DEBUG:py4j.clientserver:Answer received: !yto58
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+n
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: a
+e
+o58
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o58
+i0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi57440
+DEBUG:py4j.clientserver:Command to send: a
+e
+o58
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o58
+i1
+e
+
+DEBUG:py4j.clientserver:Answer received: !ys788d03fe3d3632df4a2732e8bd7a703b95aa50e672152ae52f8ef2cdeb55f224
+INFO:work:2023-03-23 11:21:29.702427 - there are no errors in the program <head.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:21:29] "GET /filter?s=2019-01-01&e=2020-12-31&ind=False&cou=200 HTTP/1.1" 200 -
+INFO:py4j.clientserver:Closing down clientserver connection
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:21:29] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: m
+d
+o58
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o49
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o50
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o51
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o52
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o53
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o54
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o55
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o56
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o57
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o46
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o47
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+CRITICAL:error:2023-03-23 11:22:01.757502 - critical error in the program <head.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:22:01] "GET /filter?s=2019-01-01&e=2020-12-31&ind=False&cou HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:22:01] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:work:2023-03-23 11:22:04.421965 - there are no errors in the program <home.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:22:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:22:04] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:22:04] "[36mGET /static/images/ggg.png.jpeg HTTP/1.1[0m" 304 -
+INFO:work:2023-03-23 11:22:06.213205 - there are no errors in the program <search.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:22:06] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:22:06] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: m
+d
+o37
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o12
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o13
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o35
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:4554
+ * Running on http://192.168.0.76:4554 (Press CTRL+C to quit)
+DEBUG:py4j.clientserver:Command to send: m
+d
+o37
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o12
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o13
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o35
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:4554
+ * Running on http://192.168.0.76:4554 (Press CTRL+C to quit)
+DEBUG:py4j.clientserver:Command to send: m
+d
+o32
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o33
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o34
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o35
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o37
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o7
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o26
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+INFO:work:2023-03-23 11:31:36.481502 - there are no errors in the program <search.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:31:36] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:31:36] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:31:36] "[36mGET /static/images/1643987313_27-phonoteka-org-p-fon-dlya-saita-besshovnii-svetlii-31.jpg HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: A
+76edbb4bfd134f54580cabae6192e692bbd59ad4628902c8402ea3db5a7469ee
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro39
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2019-01-01
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro40
+DEBUG:py4j.clientserver:Command to send: c
+o39
+geq
+ro40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro41
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro42
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2020-12-31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro43
+DEBUG:py4j.clientserver:Command to send: c
+o42
+leq
+ro43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro44
+DEBUG:py4j.clientserver:Command to send: c
+o41
+and
+ro44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro45
+DEBUG:py4j.clientserver:Command to send: c
+o38
+filter
+ro45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro46
+DEBUG:py4j.clientserver:Command to send: c
+o46
+limit
+i100
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro47
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+shead at C:\\Users\\wilda\\python_class\\git_new\\LCE_first\\main.py:31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: c
+o47
+collectToPython
+e
+
+DEBUG:py4j.clientserver:Command to send: m
+d
+o39
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o41
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o42
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Answer received: !yto48
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+n
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: a
+e
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o48
+i0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi59079
+DEBUG:py4j.clientserver:Command to send: a
+e
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o48
+i1
+e
+
+DEBUG:py4j.clientserver:Answer received: !ys044cfc836f07d734a2ab6e722ed77d3fbc3c5241c4322c677dd62141444a75c9
+INFO:work:2023-03-23 11:31:42.191572 - there are no errors in the program <head.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:31:42] "GET /filter?s=2019-01-01&e=2020-12-31&ind=False&cou=100 HTTP/1.1" 200 -
+INFO:py4j.clientserver:Closing down clientserver connection
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:31:42] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: m
+d
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+CRITICAL:error:2023-03-23 11:31:47.046733 - critical error in the program <head.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:31:47] "GET /filter?s=2019-01-01&e=2020-12-31&ind=False&cou HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:31:47] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:31:53] "[33mGET /filt HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:4554
+ * Running on http://192.168.0.76:4554 (Press CTRL+C to quit)
+DEBUG:py4j.clientserver:Command to send: m
+d
+o32
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o33
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o34
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o35
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o37
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o7
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o26
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:33:05] "[33mGET /filt HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:33:05] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:work:2023-03-23 11:33:13.907430 - there are no errors in the program <search.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:33:13] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:33:14] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:33:17] "[33mGET /sear HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:33:17] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:4554
+ * Running on http://192.168.0.76:4554 (Press CTRL+C to quit)
+DEBUG:py4j.clientserver:Command to send: m
+d
+o12
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o13
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o35
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+INFO:work:2023-03-23 11:35:24.939057 - there are no errors in the program <home.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:35:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:35:25] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:35:25] "[36mGET /static/images/ggg.png.jpeg HTTP/1.1[0m" 304 -
+INFO:work:2023-03-23 11:35:26.879705 - there are no errors in the program <search.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:35:26] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:35:27] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: A
+e5c749ee74855d94f96582ee63f951f0b5f51ee06aca4643d2b9e6278cdbb767
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro39
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2019-01-01
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro40
+DEBUG:py4j.clientserver:Command to send: c
+o39
+geq
+ro40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro41
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro42
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2020-12-31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro43
+DEBUG:py4j.clientserver:Command to send: c
+o42
+leq
+ro43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro44
+DEBUG:py4j.clientserver:Command to send: c
+o41
+and
+ro44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro45
+DEBUG:py4j.clientserver:Command to send: c
+o38
+filter
+ro45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro46
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sindustry
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro47
+DEBUG:py4j.clientserver:Command to send: c
+o47
+equalTo
+sOther
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro48
+DEBUG:py4j.clientserver:Command to send: c
+o46
+filter
+ro48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro49
+DEBUG:py4j.clientserver:Command to send: c
+o49
+limit
+i100
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro50
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+shead at C:\\Users\\wilda\\python_class\\git_new\\LCE_first\\main.py:31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: c
+o50
+collectToPython
+e
+
+DEBUG:py4j.clientserver:Command to send: m
+d
+o39
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o41
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o42
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o46
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o47
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Answer received: !yto51
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+n
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: a
+e
+o51
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o51
+i0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi59389
+DEBUG:py4j.clientserver:Command to send: a
+e
+o51
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o51
+i1
+e
+
+DEBUG:py4j.clientserver:Answer received: !ys4c9c90f5ecdd0b5c549a3a7a82ce2959d3046b4eeb824c59ebc6d118a347a08e
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:35:39] "GET /filter?s=2019-01-01&e=2020-12-31&ind=Other&cou=100 HTTP/1.1" 200 -
+INFO:py4j.clientserver:Closing down clientserver connection
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:35:39] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: m
+d
+o51
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+INFO:work:2023-03-23 11:35:43.625335 - there are no errors in the program <search.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:35:43] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:35:43] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: A
+e5c749ee74855d94f96582ee63f951f0b5f51ee06aca4643d2b9e6278cdbb767
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro52
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2019-01-01
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro53
+DEBUG:py4j.clientserver:Command to send: c
+o52
+geq
+ro53
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro54
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro55
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2020-12-31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro56
+DEBUG:py4j.clientserver:Command to send: c
+o55
+leq
+ro56
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro57
+DEBUG:py4j.clientserver:Command to send: c
+o54
+and
+ro57
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro58
+DEBUG:py4j.clientserver:Command to send: c
+o38
+filter
+ro58
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro59
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sindustry
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro60
+DEBUG:py4j.clientserver:Command to send: c
+o60
+equalTo
+sBiotechnology:
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro61
+DEBUG:py4j.clientserver:Command to send: c
+o59
+filter
+ro61
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro62
+DEBUG:py4j.clientserver:Command to send: c
+o62
+limit
+i100
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro63
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+shead at C:\\Users\\wilda\\python_class\\git_new\\LCE_first\\main.py:31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: c
+o63
+collectToPython
+e
+
+DEBUG:py4j.clientserver:Answer received: !yto64
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+n
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: a
+e
+o64
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o64
+i0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi59404
+DEBUG:py4j.clientserver:Command to send: a
+e
+o64
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o64
+i1
+e
+
+DEBUG:py4j.clientserver:Answer received: !ys4c9c90f5ecdd0b5c549a3a7a82ce2959d3046b4eeb824c59ebc6d118a347a08e
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:35:57] "GET /filter?s=2019-01-01&e=2020-12-31&ind=Biotechnology%3A&cou=100 HTTP/1.1" 200 -
+INFO:py4j.clientserver:Closing down clientserver connection
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:35:57] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: m
+d
+o64
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+INFO:work:2023-03-23 11:38:45.111713 - there are no errors in the program <search.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:38:45] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:38:45] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: m
+d
+o50
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o52
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o53
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o54
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o55
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o56
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o57
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o58
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o59
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o60
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o61
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o62
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o63
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: A
+e5c749ee74855d94f96582ee63f951f0b5f51ee06aca4643d2b9e6278cdbb767
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro65
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2019-01-01
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro66
+DEBUG:py4j.clientserver:Command to send: c
+o65
+geq
+ro66
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro67
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro68
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2020-12-31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro69
+DEBUG:py4j.clientserver:Command to send: c
+o68
+leq
+ro69
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro70
+DEBUG:py4j.clientserver:Command to send: c
+o67
+and
+ro70
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro71
+DEBUG:py4j.clientserver:Command to send: c
+o38
+filter
+ro71
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro72
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sindustry
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro73
+DEBUG:py4j.clientserver:Command to send: c
+o73
+equalTo
+sMiscellaneous
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro74
+DEBUG:py4j.clientserver:Command to send: c
+o72
+filter
+ro74
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro75
+DEBUG:py4j.clientserver:Command to send: c
+o75
+limit
+i100
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro76
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+shead at C:\\Users\\wilda\\python_class\\git_new\\LCE_first\\main.py:31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: c
+o76
+collectToPython
+e
+
+DEBUG:py4j.clientserver:Answer received: !yto77
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+n
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: a
+e
+o77
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o77
+i0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi59455
+DEBUG:py4j.clientserver:Command to send: a
+e
+o77
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o77
+i1
+e
+
+DEBUG:py4j.clientserver:Answer received: !ys4c9c90f5ecdd0b5c549a3a7a82ce2959d3046b4eeb824c59ebc6d118a347a08e
+INFO:work:2023-03-23 11:38:49.284762 - there are no errors in the program <head.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:38:49] "GET /filter?s=2019-01-01&e=2020-12-31&ind=Miscellaneous&cou=100 HTTP/1.1" 200 -
+INFO:py4j.clientserver:Closing down clientserver connection
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:38:49] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: m
+d
+o77
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o65
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o66
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o67
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o68
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o69
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o70
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o71
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o72
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o73
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o74
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o75
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o76
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+CRITICAL:error:2023-03-23 11:39:01.854095 - critical error in the program <head.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:39:01] "GET /filter?s=2019-01-01&e=2020-12-31&ind=Miscellaneous&cou=ghg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:39:01] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:work:2023-03-23 11:39:08.979804 - there are no errors in the program <home.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:39:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:39:09] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:39:09] "[36mGET /static/images/ggg.png.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:4554
+ * Running on http://192.168.0.76:4554 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:4554
+ * Running on http://192.168.0.76:4554 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 109-408-766
+INFO:work:2023-03-23 22:36:11.893265 - there are no errors in the program <home.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 22:36:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 22:36:12] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 22:36:12] "[36mGET /static/images/ggg.png.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 22:36:12] "[36mGET /static/images/1643987313_27-phonoteka-org-p-fon-dlya-saita-besshovnii-svetlii-31.jpg HTTP/1.1[0m" 304 -
+INFO:work:2023-03-23 22:36:18.199240 - there are no errors in the program <search.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 22:36:18] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 22:36:18] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: A
+6cf68343fb48b8716bbd97633da6064309c41ee08369b4e4d0592fb671bc50e5
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro39
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2019-01-01
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro40
+DEBUG:py4j.clientserver:Command to send: c
+o39
+geq
+ro40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro41
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro42
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2020-12-31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro43
+DEBUG:py4j.clientserver:Command to send: c
+o42
+leq
+ro43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro44
+DEBUG:py4j.clientserver:Command to send: c
+o41
+and
+ro44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro45
+DEBUG:py4j.clientserver:Command to send: c
+o38
+filter
+ro45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro46
+DEBUG:py4j.clientserver:Command to send: c
+o46
+limit
+i100
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro47
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+shead at C:\\Users\\wilda\\python_class\\git_new\\LCE_first\\main.py:31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: c
+o47
+collectToPython
+e
+
+DEBUG:py4j.clientserver:Command to send: m
+d
+o39
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o41
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o42
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Answer received: !yto48
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+n
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: a
+e
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o48
+i0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi60398
+DEBUG:py4j.clientserver:Command to send: a
+e
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o48
+i1
+e
+
+DEBUG:py4j.clientserver:Answer received: !ysb1375f9dad4010f22f9ea736844fc91f42c5ae84bdb2f0abb009584c1f060871
+INFO:work:2023-03-23 22:36:31.329478 - there are no errors in the program <head.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 22:36:31] "GET /filter?s=2019-01-01&e=2020-12-31&ind=False&cou=100 HTTP/1.1" 200 -
+INFO:py4j.clientserver:Closing down clientserver connection
+DEBUG:py4j.clientserver:Command to send: m
+d
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o47
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 22:36:31] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: A
+6cf68343fb48b8716bbd97633da6064309c41ee08369b4e4d0592fb671bc50e5
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro49
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2019-01-01
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro50
+DEBUG:py4j.clientserver:Command to send: c
+o49
+geq
+ro50
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro51
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro52
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2020-12-31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro53
+DEBUG:py4j.clientserver:Command to send: c
+o52
+leq
+ro53
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro54
+DEBUG:py4j.clientserver:Command to send: c
+o51
+and
+ro54
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro55
+DEBUG:py4j.clientserver:Command to send: c
+o38
+filter
+ro55
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro56
+DEBUG:py4j.clientserver:Command to send: c
+o56
+limit
+i200
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro57
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+shead at C:\\Users\\wilda\\python_class\\git_new\\LCE_first\\main.py:31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: c
+o57
+collectToPython
+e
+
+DEBUG:py4j.clientserver:Answer received: !yto58
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+n
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: a
+e
+o58
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o58
+i0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi60426
+DEBUG:py4j.clientserver:Command to send: a
+e
+o58
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o58
+i1
+e
+
+DEBUG:py4j.clientserver:Answer received: !ysb1375f9dad4010f22f9ea736844fc91f42c5ae84bdb2f0abb009584c1f060871
+INFO:work:2023-03-23 22:36:38.090320 - there are no errors in the program <head.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 22:36:38] "GET /filter?s=2019-01-01&e=2020-12-31&ind=False&cou=200 HTTP/1.1" 200 -
+INFO:py4j.clientserver:Closing down clientserver connection
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 22:36:38] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: m
+d
+o49
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o50
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o51
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o52
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o53
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o54
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o55
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o58
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o46
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o56
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o57
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+INFO:work:2023-03-23 22:36:51.054970 - there are no errors in the program <search.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 22:36:51] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 22:36:51] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 22:36:58] "[33mGET /sear HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 22:36:58] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:work:2023-03-23 22:37:01.074478 - there are no errors in the program <home.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 22:37:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 22:37:01] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 22:37:01] "[36mGET /static/images/ggg.png.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:4554
+ * Running on http://192.168.0.76:4554 (Press CTRL+C to quit)
+INFO:work:2023-03-23 22:41:56.463590 - there are no errors in the program <home.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 22:41:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 22:41:56] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 22:41:56] "[36mGET /static/images/ggg.png.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 22:41:57] "[36mGET /static/images/1643987313_27-phonoteka-org-p-fon-dlya-saita-besshovnii-svetlii-31.jpg HTTP/1.1[0m" 304 -
+INFO:work:2023-03-23 22:41:59.120147 - there are no errors in the program <search.html>
+
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 22:41:59] "GET /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 22:41:59] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: A
+38a00610b45ae51293182c6bf7cba9f3c39f184cd3a5a489d02a55c8c71613e9
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro39
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2019-01-01
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro40
+DEBUG:py4j.clientserver:Command to send: c
+o39
+geq
+ro40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro41
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+col
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+col
+sdata
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro42
+DEBUG:py4j.clientserver:Command to send: r
+u
+functions
+rj
+e
+
+DEBUG:py4j.clientserver:Answer received: !ycorg.apache.spark.sql.functions
+DEBUG:py4j.clientserver:Command to send: r
+m
+org.apache.spark.sql.functions
+lit
+e
+
+DEBUG:py4j.clientserver:Answer received: !ym
+DEBUG:py4j.clientserver:Command to send: c
+z:org.apache.spark.sql.functions
+lit
+s2020-12-31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro43
+DEBUG:py4j.clientserver:Command to send: c
+o42
+leq
+ro43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro44
+DEBUG:py4j.clientserver:Command to send: c
+o41
+and
+ro44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro45
+DEBUG:py4j.clientserver:Command to send: c
+o38
+filter
+ro45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro46
+DEBUG:py4j.clientserver:Command to send: c
+o46
+limit
+i100
+e
+
+DEBUG:py4j.clientserver:Answer received: !yro47
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+shead at C:\\Users\\wilda\\python_class\\git_new\\LCE_first\\main.py:31
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: c
+o47
+collectToPython
+e
+
+DEBUG:py4j.clientserver:Command to send: m
+d
+o39
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o40
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o41
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o42
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o43
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o44
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: m
+d
+o45
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Answer received: !yto48
+DEBUG:py4j.clientserver:Command to send: c
+o14
+setCallSite
+n
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv
+DEBUG:py4j.clientserver:Command to send: a
+e
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o48
+i0
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi60969
+DEBUG:py4j.clientserver:Command to send: a
+e
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yi3
+DEBUG:py4j.clientserver:Command to send: a
+g
+o48
+i1
+e
+
+DEBUG:py4j.clientserver:Answer received: !ys4ce421b8b03b40a89a8511cda864ac5b9987873c11941760e7ef6263d3faaa1c
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 22:42:06] "GET /filter?s=2019-01-01&e=2020-12-31&ind=False&cou=100 HTTP/1.1" 200 -
+INFO:py4j.clientserver:Closing down clientserver connection
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 22:42:06] "[36mGET /static/css/stl.css HTTP/1.1[0m" 304 -
+DEBUG:py4j.clientserver:Command to send: m
+d
+o48
+e
+
+DEBUG:py4j.clientserver:Answer received: !yv

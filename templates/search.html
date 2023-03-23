@@ -1,0 +1,27 @@
+{% extends 'main.html' %}
+{% block title %}Страница поиска{% endblock %}
+{% block body %}
+<h1>Настройка сортировки</h1>
+<h3>Выберите нужные параметры</h3>
+
+<form action="filter">
+    <h2>Выберите даты: </h2>
+    <h2>от<input type="date" name="s" value="2019-01-01"
+    max="2020-12-31" min="2019-01-01">
+
+    до<input type="date" name="e" value="2020-12-31"
+    max="2020-12-31" min="2019-01-01"></h2>
+    
+    <h2>Выберите индустрию: </h2><br>
+    <select name="ind" size="10" multiple>
+        <option selected value="False">Все</option>
+        {% for ind in db_ind %}
+            <option          value = {{ind}} >{{ind}}</option>
+        {% endfor %}
+
+    </select><br>
+    <h2><input type="submit" value="Отправить"></h2>
+    <input type="hidden" name="cou" value="100">
+</form>
+
+{% endblock %}
